@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.item {
+    border: 3px solid #a34054;
+    padding: 10px;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+}
+.itemName {
+    margin-right: 15px;
+}
+.title {
+    font-size: 20px;
+}

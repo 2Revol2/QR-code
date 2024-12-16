@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 30px;
+}
+
+.navigation {
+    width: 700px;
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.link {
+    font-size: 20px;
+    text-decoration: none;
+    color: #44174e;
+}
