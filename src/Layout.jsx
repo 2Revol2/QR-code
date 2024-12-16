@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import { QrCodeScanner } from "./components/ScannerQr/QrCodeScanner"
-import { QrCodeGenerator } from "./components/GenarateQr/QrCodeGenerator"
+import { QrCodeGenerator } from "./components/GenerateQr/QrCodeGenerator"
 import { Navigation } from './components/Navigation/Navigation'
 import { GenerateHistory } from "./components/GenerateHistory/GenerateHistory"
 import { ScannHistory } from "./components/ScannHistory/ScannHistory"
